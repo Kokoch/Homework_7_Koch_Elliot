@@ -1,0 +1,22 @@
+{
+  "name": "koch_elliot_homework_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "knex": "^0.95.13",
+    "mysql": "^2.18.1",
+    "node-fetch": "^3.0.0",
+    "nodemon": "^2.0.14"
+  },
+  "devDependencies": {
+    "grunt-apidoc": "^0.11.0"
+  }
+}
